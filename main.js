@@ -58,3 +58,15 @@ function fv2(){
 }
 
 fv2()
+
+function fv3(){
+    let index = 0;
+    while(index < 3);{
+        console.log(index)
+        index++
+    }
+    console.log(index)
+}
+
+const ertek=1000; /* értéke nem változtatható meg. blokkszintű*/
+const nev = "Valaki";
